@@ -4,6 +4,11 @@
         font-family: Arial, sans-serif;
         background-color: #f7f7f7;
       }
+
+      nav {
+        background-color: antiquewhite;
+        padding: 10px;
+      }
       a {
         color: #7c0006;
         text-decoration: none;
@@ -30,5 +35,6 @@
         margin-left: 20px;
       }
       img {
+        margin-top: 10px;
         max-width: 100%;
       }
